@@ -123,4 +123,5 @@ src/
 - [Unsplash](https://unsplash.com) for professional images
 - [Lucide](https://lucide.dev) for beautiful icons
 
-  // https://sprightly-pothos-7fbb0d.netlify.app/
+## Deployed
+  https://sprightly-pothos-7fbb0d.netlify.app/
