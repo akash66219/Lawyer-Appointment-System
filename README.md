@@ -2,6 +2,9 @@
 
 ![Justice & Associates](https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=1200&h=400)
 
+![image](https://github.com/user-attachments/assets/fafa69c2-9c6b-4011-b6c9-bcfac0cd1ec2)
+
+
 ## Overview
 
 Justice & Associates is a modern web application designed to streamline the process of booking legal consultations with experienced lawyers across India. The platform connects clients with legal professionals specializing in various areas of law, making legal assistance more accessible.
